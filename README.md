@@ -1,4 +1,4 @@
-# COMP0086-PU Coursework
+# COMP0086-Probabilistic and Unsupervised Learning Coursework
 
 **Overall Grade:**  
 - **Raw Mark:** 215 / 310  
